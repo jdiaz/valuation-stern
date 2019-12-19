@@ -1,0 +1,27 @@
+Types of valuation
+
+- Instrisic -
+
+	cashflow
+ 	grow
+	risk
+
+	works with long term timelines 
+
+ - Relative -
+
+ Look at similar assets and use them as your basis for valuation
+ Scale meassure of price:
+ 	Find other investments that look like yours
+ 	Control for differences across
+
+- Option pricing models: with contigent assets - 
+
+i.e. A tech company with pending pattent thats worth if it goes through
+
+
+Always assume that markets make mistakes
+Use less inputs for the formula
+
+============================================
+
