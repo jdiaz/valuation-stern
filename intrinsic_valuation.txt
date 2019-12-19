@@ -1,0 +1,64 @@
+Intrinsic Valuation
+===================
+
+When you look at a business you the equity in the business or the entire business
+
+You are trying to value a business based on its:
+	cashflows
+	growth
+	risk
+
+Its design for cashflow generating assets: Business, Stock, Young startup
+
+================================
+Discounted cash flow valuation:
+
+The value of an asset is the present value of the expected cash flows on that asset
+Biols down to estimating cash flows and adjusting for risk
+
+Get the expected cash flows on an asset / business over time expected across all scenarios
+This means we have to consider good and bad scenarios. Thus, we discount for risk.
+
+Two ways to do it:
+
+	
+
+1.  Value of an asset =  Expected(CashFlow(1))	   Expected(CashFlow(2))    		  Expected(CashFlow(n))		n: year number
+	 	 										----------------------  + ---------------------_ + ... +  ----------------------
+	 											(1 + riskrate ^ (1))	     (1 + riskrate ^ (2))      	  	(1 + riskrate ^ (1))
+
+	 	Here you take the expected cashflow with risk adjustment per year period
+
+
+2.	Value of an asset =  CertaintyEquivalent(CF(1))	   CertaintyEquivalent(CF(2))    		   CertaintyEquivalent(CF(n))
+	 											--------------------------  +  -------------------------- + ... +  -------------------------
+	 											 (1 + riskFreeRate ^ (1))	     (1 + riskFreeRate ^ (1))              (1 + riskFreeRate ^ (1))  
+
+	 											 	n: year
+
+
+	 	Here you take the certainty equivalent cashflow with risk adjustment per year period. Certainty equivalent cashflow is
+	 	whatever money you would rather take as a replacement for the expected cash flow with risk
+
+
+Two Basic Propositions:
+
+1. For an asset to have value, the expected cashflows have to be positive some time over the life of the asset
+
+2. Assets generate cashflows early in their life will be worth more than assets that generate cashflows later.
+   The latter may compensate with growth and higher cashflows
+
+
+Value a Growth Company
+
+Tool: Financial Balance Sheet
+
+Asset | Liability
+
+Review
+
+cost of equity vs cost of capital
+
+
+
+
