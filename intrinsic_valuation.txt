@@ -29,6 +29,7 @@ Two ways to do it:
 
 	 	Here you take the expected cashflow with risk adjustment per year period
 
+	 	Rather than ajust the discount rate for risk you can try to adjust the cash flow for risk
 
 2.	Value of an asset =  CertaintyEquivalent(CF(1))	   CertaintyEquivalent(CF(2))    		   CertaintyEquivalent(CF(n))
 	 											--------------------------  +  -------------------------- + ... +  -------------------------
@@ -51,14 +52,31 @@ Two Basic Propositions:
 
 Value a Growth Company
 
-Tool: Financial Balance Sheet
+Tool: Accounting Balance Sheet
 
-Asset | Liability
+------------------------------
+| Asset          | Liability |
+------------------------------
+|	assets         |	debt  	 | assets 			 = cashflows, working capital
+|								 |           | growth assets = expected value from future investements
+|	growth assets	 |  equity	 | debt 				 = fixed claim on cashflow, tax deductable, fixed maturity
+------------------------------ equity 			 = residual claim on cashflow, significant role in management, perpetual lives
 
-Review
+Financial Balance Sheet
 
-cost of equity vs cost of capital
+-------------------------------------------
+| Asset          		   	 | Liability      |
+-------------------------------------------
+| Assets / Growth Assets | Debt / Equity  |   Assets = investment that produce cashflows after paying debt
+-------------------------------------------   Liaility = cost of rasing equity financing
+
+I can value the equity or the entire business
+
+equity
+Discount    cash    flows    after    debt    payments    at    the    cost    of    equity
+
+entire business
+Discount    cash    flows    after    debt    payments    at    the    cost    of    capital
 
 
-
-
+NEVER MIX AND MATCH CASHFLOWS
